@@ -1,5 +1,5 @@
 {
-  "secretCode": "RILLYZYDEV",
+  "secretCode": "cukuptau",
   "description": "PREMIUM KEY", 
   "lastUpdated": "2025-01-019",
   "author": "RILLYZY", 
